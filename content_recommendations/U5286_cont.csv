@@ -1,78 +1,78 @@
-ID,distance
-N63302,2.9367114460221444e-06
-N31089,0.2165618282033135
-N33435,0.2507587516120372
-N34418,0.25209611222209694
-N55189,0.25416704087743325
-N25142,0.2551335006662596
-N55528,0.25864876913497237
-N20332,0.2610006491865424
-N53526,0.2668038266014021
-N39850,0.2668910410101655
-N13019,0.2682449012741096
-N35584,0.2688115511069261
-N31801,0.27034474605006076
-N16909,0.2753650414020389
-N61837,0.2756704239197333
-N55199,0.2762873643924869
-N14622,0.2769009930174432
-N18445,0.27738073907034067
-N39983,0.28053053732847166
-N47585,0.2807740977240607
-N64760,0.2832447958563229
-N5497,0.2833980390335328
-N6379,0.28536095882875145
-N5171,0.28657941829630584
-N241,0.2868104801934521
-N10414,0.28761360408601
-N34694,0.2889084247295096
-N17301,0.2900381141746654
-N208,0.2912839437410658
-N45794,0.2913869811466261
-N47850,0.29184679530794144
-N7482,0.2925190611380152
-N54299,0.29341524525858587
-N31581,0.29347498575550546
-N49186,0.29359865172379274
-N40147,0.29431325456120283
-N50451,0.2948977323761396
-N40065,0.2951747433481823
-N42782,0.29523976861035095
-N56061,0.29531449150545996
-N218,0.295577878730398
-N44276,0.2961555573294722
-N24301,0.29629563967432515
-N56193,0.29667597606615925
-N27974,0.29812510661137337
-N41222,0.2988301749305028
-N61572,0.2988383958538614
-N20831,0.3009355987272586
-N15962,0.3011083066411292
-N19639,0.3020396732255711
-N18340,0.3023221946277792
-N59295,0.3027465411380118
-N43567,0.3030924692389275
-N10529,0.3031096353263628
-N3411,0.30324919255551397
-N43432,0.3042822548463425
-N19347,0.3046614428658615
-N5027,0.3046788874453149
-N13341,0.3048027341149121
-N8371,0.30483844212427025
-N9739,0.3048576621785768
-N49749,0.3061776332972006
-N6940,0.30637857937139756
-N10311,0.3066701157384145
-N4219,0.3082865825607355
-N413,0.31038467985667584
-N17258,0.31258943685111695
-N2073,0.3128529476300982
-N38324,0.31309412413495685
-N52046,0.31717296620540225
-N3354,0.317422619399209
-N23858,0.3179071111464682
-N5,0.3179133655510138
-N15236,0.32192608374213705
-N28814,0.32230062997205866
-N21106,0.3259613663712556
-N41479,0.33809041588234157
+ID,distance,Category,SubCategory,Content
+N63302,2.9367114460221444e-06,lifestyle,lifestylebuzz,"This Wedding Photo of a Canine Best Man Captures Just How Deep a Dog's Love Truly Is When Mark Doublet made his dog, Marley, the best man at his wedding, he took his duties very seriously, and a photo of them together has gone viral."
+N31089,0.2165618282033135,news,newsus,Thief steals thousands from couple during wedding reception Emma and Chris Cox's picture-perfect wedding day was tarnished when a thief swiped a gift bag filled with thousands in cash. The brazen heist was caught on surveillance cameras.
+N33435,0.2507587516120372,lifestyle,lifestylefamily,"Four siblings, all veterans, celebrate Veterans Day in DC Those who pay a visit to the solemn World War II Memorial will come across inscriptions, excerpts of speeches from leaders honoring those who laid down their lives for this country."
+N34418,0.25209611222209694,sports,soccer_epl,"How the Sounders won MLS Cup Mark, Jeremiah and Casey were so excited they did a postgame podcast."
+N55189,0.25416704087743325,tv,tvnews,"'Wheel Of Fortune' Guest Delivers Hilarious, Off The Rails Introduction We'd like to solve the puzzle, Pat: Blair Davis' loveless marriage? On Monday, ""Wheel of Fortune"" welcomed as a new contestant trucking business owner Blair Davis, who offered a biting introduction for himself. When host Pat Sajak asked the man from Cardiff, California, about his family, Davis plunged into one of the darkest personal summaries the show has likely ever heard. ""I've been trapped in a loveless marriage for the last 12 years to an..."
+N25142,0.2551335006662596,entertainment,awards,"Robert Downey Jr. reassures fans he didn't die at 2019 E! PCAs Tony Stark has risen from the dead! The ""Iron Man"" star takes the stage to kick off the E! People's Choice Awards with a bang! Watch."
+N55528,0.25864876913497237,lifestyle,lifestyleroyals,"The Brands Queen Elizabeth, Prince Charles, and Prince Philip Swear By Shop the notebooks, jackets, and more that the royals can't live without."
+N20332,0.2610006491865424,news,newsworld,"Langfords, 100 members of Mormon families leave Mexico after ambush David Langford and his hero son, Devin, who helped save his siblings, are leaving Northwest Mexico, where Mormons lived for decades before drug cartels encroached."
+N53526,0.2668038266014021,health,voices,"I Was An NBA Wife. Here's How It Affected My Mental Health. I felt like I was a fraud, and being an NBA wife didn't help that. In fact, it nearly destroyed me."
+N39850,0.2668910410101655,lifestyle,lifestylebuzz,"Veterans Day event in Jeffersontown brings out the town and the Ladies for Liberty At a Veterans Day observation service in Jeffersontown Veterans Memorial Park Sunday, several hundred people gathered."
+N13019,0.2682449012741096,video,lifestyle,"Still teaching at 95, Jimmy Carter draws devotees to church Former President Jimmy Carter can still draw a crowd, and he does each time he teaches Sunday school in his hometown of Plains, Georgia. (Nov. 11)"
+N35584,0.2688115511069261,travel,travelnews,"Veterans gather, share stories at Brick Store Museum exhibit ahead of American Legion Centennial The Brick Store Museum in Kennebunk held an open house for veterans Sunday in celebration of the American Legion's centennial anniversary. At the museum, a new exhibit looks back at 100 years of history between the town of Kennebunk and the Webber-Lefebvre American Legion Post 74. The exhibit displays various artifacts, historical documents, military uniforms and photos on loan from the post. Sign up for our Newsletters The American Legion is..."
+N31801,0.27034474605006076,news,newspolitics,Joe Biden reportedly denied Communion at a South Carolina church because of his stance on abortion Joe Biden has a complicated history with the Catholic Church.
+N16909,0.2753650414020389,weather,weathertopstories,"Adapting, Learning And Soul Searching: Reflecting On Woolsey Fire Woolsey Fire Anniversary: A community is forever changed by the largest blaze in county history, a harbinger of the catastrophic fire era."
+N61837,0.2756704239197333,news,newsworld,"The Cost of Trump's Aid Freeze in the Trenches of Ukraine's War Lt. Ivan Molchanets peeked over a parapet of sand bags at the front line of the war in Ukraine. Next to him was an empty helmet propped up to trick snipers, already perforated with multiple holes."
+N55199,0.2762873643924869,news,newsus,Winter homeless shelter remains unopened after protests 
+N14622,0.2769009930174432,news,newscrime,"Family asks for help in solving May cold case Friends and family of a murder victim is asking the community for answers. Corey Johnson, 27, was gunned down on 18th and West Main Streets on May 21. His sister, Monique Johnson, says she has not heard anything from police as far as leads or suspects. Johnson is asking that if someone knows information regarding her brother's murder to come forward. ""I'm just pleading for the public, anyone who knows anything please speak,"" she said. Johnson's..."
+N18445,0.27738073907034067,sports,football_ncaa,"Michigan sends breakup tweet to Notre Dame as series goes on hold Parting is such sweet sorrow, say the Wolverines."
+N39983,0.28053053732847166,news,newscrime,"NYPD Defends Officers In Arrest Of Illegal Food Vendor Despite criticism from some city officials, the NYPD says its officers acted properly in arresting a woman who was illegally selling churros inside a Brooklyn subway station. CBS2's Lisa Rozner reports"
+N47585,0.2807740977240607,lifestyle,lifestylefamily,Family says 13-year-old Broadway star died from massive asthma attack 
+N64760,0.2832447958563229,news,newsoffbeat,"Supermarket magnate John Catsimatidis offers $1,000 reward in case of possible Queens cat poisonings It might take Cats to catch a heartless feline killer. Supermarket mogul and one-time mayoral hopeful John Catsimatidis is offering a $1,000 reward for information on a suspected cat killer who animal rights activists believe is poisoning feral felines in Queens. Catsimatidis announced the reward on his Cats Roundtable radio show Sunday morning during a segment with Guardian Angels ..."
+N5497,0.2833980390335328,news,newsus,"Still teaching at 95, Jimmy Carter draws devotees to church PLAINS, Ga. (AP)   The pilgrims arrive early and from all over, gathering hours before daybreak in an old pecan grove that surrounds a country church. They come, they say, for a dose of simple decency and devotion wrapped up in a Bible lesson. The teacher is the 39th president of the United States, Jimmy Carter. Nearly four decades after he left office and despite a body that's failing after 95 years, the nation's oldest-ever ex-president still..."
+N6379,0.28536095882875145,news,newscrime,"California cops respond to 2 homeless men shot with arrows: report Two homeless men living at an encampment near San Francisco were shot with arrows early Sunday in an attack that was not random, a report said."
+N5171,0.28657941829630584,news,elections-2020-us,Still a chance? 2020 longshots insist race is up for grabs Bernie Sanders rallied hundreds of supporters outside the New Hampshire capital when the senator formally filed to compete in the state's first-in-the-nation presidential primary.
+N241,0.2868104801934521,finance,finance-companies,"Are Stores Open on Veterans Day? Target, Aldi, Walmart and More Will shoppers be able to make the most of Veterans Day deals this public holiday?"
+N10414,0.28761360408601,movies,movienews,"Robert Evans, 'Chinatown' Producer and Paramount Chief, Dies at 89 Robert Evans, the Paramount executive who produced ""Chinatown"" and ""Urban Cowboy"" and whose life became as melodramatic and jaw-dropping as any of his films, died on Saturday night. He was 89. Even though Hollywood history is filled with colorful characters, few can match the tale of Evans, whose life would seem far-fetched if it were"
+N34694,0.2889084247295096,tv,tvnews,Rosie O'Donnell: Barbara Walters Isn't 'Up to Speaking to People' Right Now Rosie O'Donnell: Barbara Walters Isn't 'Up to Speaking to People' Right Now
+N17301,0.2900381141746654,sports,football_nfl,Kirk Cousins responds to narrative about not being able to beat winning teams Cousins helped deliver a huge win for the Vikings over the Cowboys Sunday night.
+N208,0.2912839437410658,sports,football_nfl,Five winners and five losers as the Dallas Cowboys drop a heartbreaker to the Minnesota Vikings A tough loss to swallow for the Cowboys.
+N45794,0.2913869811466261,news,newscrime,"Four flight attendants were arrested in Miami's airport after bringing in thousands in cash, police say Four American Airlines flight attendants were arrested at the Miami International Airport and charged with money laundering after bringing large amounts of cash into the country, police said."
+N47850,0.29184679530794144,news,newsus,"Texas teacher free on bond after assaulting a student A Texas teacher is free on bond tonight, after her arrest for assaulting a student. Her violent outburst was captured on cell phone video. Meg Oliver reports."
+N7482,0.2925190611380152,sports,more_sports,"St. Dominic soccer player tries to kick cancer to the curb Sometimes, what happens on the sidelines can be even more important than what happens on the field. That was the case recently for the improving St. Dominic boys soccer team. ""We're led by some great seniors and they're learning a lot,"" said head soccer coach Greg Koeller. Since 2000, the Crusaders have won five state titles. And if that wasn't enough motivation, they have players who provide inspiration. Like No. 2, Clay North. ""Clay is just an..."
+N54299,0.29341524525858587,sports,baseball_mlb,"Column: Baseball's hot stove league could use an NBA-style spark after the slow pace of the last few offseasons When discussing teams' interest in free agent Bryce Harper last year at the general managers meetings, agent Scott Boras cautioned that many suitors would be playing it cool over the winter. ""It's not a regatta,"" Boras said. ""It's a submarine race."" The submarine race finally ended more than three months later, during spring training, with Harper signing a record 13-year, $330 million deal ..."
+N31581,0.29347498575550546,news,newsus,"Man killed in single-car crash after having medical emergency behind the wheel A 52-year-old man was killed after he had a medical emergency behind the wheel. The Missouri State Highway Patrol said Jeffery T. Gregory was driving on Missouri Highway 79 near the intersection of East Terra Lane Sunday afternoon at around 12:45 when he had a medical emergency. The crash report said the car drove off the left side of the road, ended up on East Terra Lane and flipped before slamming into a concrete median. He was pronounced dead..."
+N49186,0.29359865172379274,weather,weathertopstories,"It's been Orlando's hottest October ever so far, but cooler temperatures on the way There won't be a chill down to your bones this Halloween in Orlando, unless you count the sweat dripping from your armpits."
+N40147,0.29431325456120283,sports,football_nfl,"Well, they'll take it: Shining light on the highs and lows from the Bears' win over the Lions on the Bear Download podcast Welcome to the Bear Download podcast. Listen below or subscribe and listen on iTunes | Spotify | Stitcher | Google Play Bears win! Well, yes, they did end their four-game losing streak with a 20-13 victory over the shorthanded Lions. But Rich and Dan break it all down and let some air out of the balloon -- not that much was in there to start. On the bright side, quarterback Mitch Trubisky ..."
+N50451,0.2948977323761396,news,newsus,"Police: Man killed in crash, fire in Pleasant Ridge A man is dead after a car crash turned into a fire in Pleasant Ridge late Sunday night. The crash happened around 10:30 p.m. on Ridge and Montgomery Road. Sign up for our Newsletters Police said emergency crews at the scene found the driver trapped in the car. Officials said the driver crashed into a utility pole causing the car to burst into flames. The driver later died from his injuries. Investigators said they believe the driver was speeding..."
+N40065,0.2951747433481823,sports,more_sports,"The Day in Sports: Sunday, November 10, 2019 The Day in Sports: Sunday, November 10, 2019"
+N42782,0.29523976861035095,sports,baseball_mlb,Three takeaways from Yankees' ALCS Game 5 victory over the Astros The Yankees kept hope alive thanks to some impressive starting pitching and a pair of early home runs.
+N56061,0.29531449150545996,sports,football_nfl,9 things we learned from Sunday's games of Week 10 of NFL season 
+N218,0.295577878730398,video,news,Bolivia protesters celebrate Morales' resignation Bolivian opposition protesters celebrated joyously in the streets of La Paz on Sunday evening after Bolivian President Evo Morales said he would resign following weeks of protests over a disputed election that has roiled the South American nation.
+N44276,0.2961555573294722,autos,autossports,Best Sports Car Deals for October 
+N24301,0.29629563967432515,sports,football_nfl,"10 biggest disappointments of NFL Week 10 From quarterback play to special teams disasters, there was plenty of disappointment to go around in Week 10 of the NFL."
+N56193,0.29667597606615925,sports,football_nfl,Cowboys have questionable red zone calls in loss to Vikings 
+N27974,0.29812510661137337,weather,weathertopstories,"Colder Temperatures And A Wintery Mix Expected Monday First on Fox, we begin tonight on the winter watch today`s fall feel giving way to winter in a hurry, and that means getting prepared for the quick change in seasons, and that means some snow. Fox 2/News 11`s Blair Ledet begins our coverage."
+N41222,0.2988301749305028,news,newsworld,"Evo Morales of Bolivia Accepts Asylum in Mexico Evo Morales, the former president of Bolivia who resigned under pressure from street protests and the military, was granted asylum in Mexico on Monday, departing from the country at a time when it is deeply polarized and leaderless."
+N61572,0.2988383958538614,sports,football_nfl,"Believe in 'Minkah Magic' as Fitzpatrick sparks Steelers' turnaround Discarded by the Dolphins after a little more than a season, Minkah Fitzpatrick is making a considerable difference for a surging Steelers team."
+N20831,0.3009355987272586,sports,soccer_mls,"New buzz on possibility of Major League Soccer in Charlotte Charlotte appears to be in the driver's seat for Major League Soccer's 30th franchise. MLS Commissioner Don Garber mentioned Charlotte as one of three cities in the running at Friday's State of the League press conference. ""It is very likely that we'll announce [the] team 30 in the next number of months,"" Garber said. Garber acknowledged Charlotte, Phoenix and Las Vegas as cities in the mix for expansion. ""It's fair to say that Charlotte has..."
+N15962,0.3011083066411292,sports,football_nfl,"Ravens Coach Harbaugh: Michael Pierce's X-Rays Negative After Ankle Injury, No Timetable On Return Coach John Harbaugh said the x-rays on his ankle came back negative, but there is no clear timetable on his return."
+N19639,0.3020396732255711,health,weightloss,50 Worst Habits For Belly Fat These seemingly harmless habits are holding you back and keeping you from shedding that unwanted belly fat for good.
+N18340,0.3023221946277792,sports,basketball_nba,"Raptors end Lakers' 7-game winning streak in 113-104 victory LOS ANGELES (AP)   The centerpiece of the Toronto Raptors' championship team works at Staples Center now. Two more key components of last season's sublime roster got injured right before the Raptors arrived in Los Angeles for the reunion. In the opening weeks of life after Kawhi, the defending champs are learning they might be deeper than even they realized. They definitely had enough to hold off Staples' marquee tenants in a remarkable..."
+N59295,0.3027465411380118,news,newsworld,"Chile: Three die in supermarket fire amid protests Three people have died in a supermarket fire as angry protests in Chile entered their seventh day, the mayor of capital city Santiago said on Sunday."
+N43567,0.3030924692389275,news,newspolitics,"High-stakes televised impeachment hearings set for next week William Taylor, the top diplomat in Ukraine, will testify, and Republicans hope to hear from Hunter Biden and the anonymous whistleblower."
+N10529,0.3031096353263628,sports,football_nfl,Week 10 Game Balls: Few Bright Spots in Colts Dismal Showing against Dolphins 
+N3411,0.30324919255551397,sports,basketball_ncaa,"Aldermen, Parents And Players Hope SLPS Will Reconsider Roosevelt Coach Termination New tonight, the Roosevelt High School football coach was fired for contacting players through social media. But theres a push to have him re-instated. Fox 2/News 11s Jeff Bernthal was live with why several St. Louis aldermen want the district to re-consider the coachs termination."
+N43432,0.3042822548463425,news,newsus,"US Forest Service shuts down vandalized Georgia park feature GAINESVILLE, Ga. (AP)   The U.S. Forest Service says vandalism is forcing it to shut down a popular fall leaf viewing destination in Georgia. The agency posted photos to Facebook on Friday showing a wooden platform covered in white spray paint overlooking the mountainous north Georgia landscape at Chattahoochee-Oconee National Forests."
+N19347,0.3046614428658615,news,newspolitics,"Former US Senator Kay Hagan dead at 66 Former U.S. Sen. Kay Hagan, a one-time Capitol Hill intern who went on to become North Carolina's first Democratic female senator, died Monday at her Greensboro home. She was 66."
+N5027,0.3046788874453149,news,newsscienceandtechnology,NEW DETAILS: Wright Brothers airport eyes growth as upgrades continue Dayton-Wright Brothers Airport is in the midst of what is expected be more than $4 million in investments as it broadens its regional reach.
+N13341,0.3048027341149121,news,newsus,"Rising temperatures put U.S. troops at risk during training, report finds By midcentury, troops could face an extra month of heat-index temperatures above 100 F every year, the Union of Concerned Scientists found."
+N8371,0.30483844212427025,sports,football_nfl,"Rams' fake punt goes horribly wrong, Steelers get pick Nothing seems to be working for the Rams against the Steelers, and this fake punt attempt was no exception."
+N9739,0.3048576621785768,sports,football_nfl_videos,Vikings edge Cowboys on 'SNF' Watch the Minnesota Vikings vs. Dallas Cowboys highlights from Week 10 of the 2019 season.
+N49749,0.3061776332972006,sports,football_nfl,"'Unbelievable.' Chiefs fans stunned, mad after loss to the Titans What the heck happened? The Chiefs were lining up for a field goal that would have given them and eight-point lead late in Sunday's game against the Tennessee Titans in Nashville. The snap came before holder Dustin Colquitt was ready and he threw the ball away. Colquitt was called for intentional grounding and the Titans took over. They drove down the field for a touchdown, two-point ..."
+N6940,0.30637857937139756,finance,finance-career-education,"Kaiser Permanente CEO And Affordable Health Care Advocate Bernard J. Tyson Dies Health care provider Kaiser Permanente said Sunday its chairman and CEO, Bernard J. Tyson, has died unexpectedly at the age of 60."
+N10311,0.3066701157384145,news,newsworld,"Turkish army takes CNN inside Syria's safe zone A month after Turkey launched its operation into northern Syria, major combat operations around the town of Tal Abyad may have ended, but the battle for this part of Syria is far from over. CNN's Jomana Karadsheh reports."
+N4219,0.3082865825607355,sports,icehockey_nhl,"In USA vs. Canada hockey, the winners are women At the end, what didn't matter was the score. What mattered most was the game. Playing ice hockey hard and fast. Some of the highest level hockey in the world, played by women. Even the players in Sunday's second sold-out exhibition game between the national women's teams of the United States and Canada   the best female players in the world and the biggest rivals   had stressed a higher purpose to this past week's joint training camp that put..."
+N413,0.31038467985667584,news,newsscienceandtechnology,"Google Maps lets you manage your public profile from the Android app Google Maps increasingly thrives on user contributions to fill in details, but you haven't had the option to manage your public profile from the phone app you're probably using to make those contributions. That's a bit backwards, but Google is thankfully setting things right. An updated version of the Android app lets you manage your profile from a new ""your profile"" item in the side menu."
+N17258,0.31258943685111695,news,newsscienceandtechnology,Realme takes chunk of India mobile market as Samsung slides Over 400 percent more phones shipped year-on-year
+N2073,0.3128529476300982,sports,football_nfl,Should NFL be able to fine players for criticizing officiating? Several fines came down against NFL players for criticizing officiating this week. It's a very bad look for the league.
+N38324,0.31309412413495685,health,medical,"How to Get Rid of Skin Tags, According to a Dermatologist They seem harmless, but there's a very good reason you shouldn't ignore them. The post How to Get Rid of Skin Tags, According to a Dermatologist appeared first on Reader's Digest."
+N52046,0.31717296620540225,sports,racing,NASCAR championship standings 2019: Final 4 drivers set for Cup Series title race at Homestead Three Joe Gibbs Racing drivers will be competing with a Stewart-Haas Racing driver for a championship on Nov. 17.
+N3354,0.317422619399209,sports,more_sports,NCDPS: Juveniles who escaped from N.C. development center may be in Hickory area 
+N23858,0.3179071111464682,sports,golf,"Young Northeast Florida fans flock to U.S. women's soccer When the U.S. women's national soccer team arrived in Jacksonville for a final exhibition match to conclude their 2019 Victory Tour at TIAA Bank Field against Costa Rica Sunday night, area fans were waiting for them. Although the suspense was low, since the U.S. women's national team has put up an impressive 14-0-0 all-time record against Costa Rica, soccer fans from far and wide showed out to ..."
+N5,0.3179133655510138,sports,icehockey_nhl,"Even David Pastrnak's slumps are superstar caliber for Bruins Guess David Pastrnak isn't going to score 82 goals and accumulate 164 points this season. Or at least he's not on pace to do anymore. After scoring 15 goals and adding 15 assists through the Bruins' first 15 games, Pastrnak had gone two games without a point after he was blanked in Boston's 3-2 shootout loss to Philadelphia at TD Garden on Sunday. Oh the humanity! But here's where things stand in the 23-year-old sniper's career. Gone are the..."
+N15236,0.32192608374213705,finance,finance-real-estate,"Only 1 World City Charges More Than NYC Per Foot Of Apt Space The amount New Yorkers pay per square foot of real estate is much higher than almost anywhere else in the world, a recent report shows."
+N28814,0.32230062997205866,sports,basketball_ncaa,"Christyn Williams delivers all-around performance to fuel stilted UConn offense On a day when UConn's offense often felt stilted and stagnant, the Huskies turned to one player more than any other for scoring, playmaking and a general positive presence. Sophomore Christyn Williams was efficient Sunday, converting 10 of 17 field-goal attempts. She was consistent, with at least one field goal in all four quarters and at least two rebounds in three of the four. And she was ..."
+N21106,0.3259613663712556,sports,football_nfl,"Patriots: CB Stephon Gilmore's dominance has had much to do with New England being 8-1 The Patriots headed into their bye week after their first loss of 2019. At 8-1, however, there's been much more good than bad this season, so far. When the team returns for Week 11, they'll still be in the driver's seat for the AFC's No. 1 seed. The schedule won't be easy -- Philadelphia, Dallas, Houston and Kansas City -- but we'll see if the Patriots can regain their form from the first ..."
+N41479,0.33809041588234157,sports,basketball_nba,"Scouting report: Rockets vs. Pelicans When/where: 7 p.m. Monday/Smoothie King Center TV/radio: AT&T SportsNet/790-AM; Spanish: 850 AM/101.7 FM So far: Rockets 6-3, Pelicans 2-7 Lately: The Rockets have a three-game winning streak, their longest of the season, after beating the Bulls in Chicago on Saturday. The Pelicans picked up their second win of the season Saturday in Charlotte. Scouting the Rockets In the past six games against the Pelicans, the Rockets have outscored New..."
