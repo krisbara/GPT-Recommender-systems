@@ -1,2 +1,5 @@
 # ignore ALL files in ANY directory named temp
 embeddings/
+content_recommendations/
+collaborative_recommendations/
+hybrid_recommendations/
