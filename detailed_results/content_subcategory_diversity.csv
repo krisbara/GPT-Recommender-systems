@@ -1,0 +1,11 @@
+SubCategory;Correlation;p-value
+newsus;0.352;0.0
+football_nfl;0.791;0
+newspolitics;0.624;0
+newscrime;0.394;0.0007
+weathertopstories;0.204;0.329
+newsworld;0.467;0.0003
+football_ncaa;-0.397;0.115
+baseball_mlb;0.906;2.8090278397129874e-09
+basketball_nba;0.387;0.101
+newsscienceandtechnology;-0.449;0.166
