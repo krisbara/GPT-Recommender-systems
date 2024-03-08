@@ -1,0 +1,12 @@
+# ignore ALL files in ANY directory named temp
+embeddings/
+content_recommendations/
+collaborative_recommendations/
+hybrid_recommendations/
+sentiment_analysis/
+interactions_parts/
+MIND/
+extra_profiles/
+content_rest/
+collab_rest/
+recommendations_20/
