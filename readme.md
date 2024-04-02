@@ -1,6 +1,6 @@
 # Recommender systems based on GPT
 
-The project is devoted to GPT-based news recommender systems (NRS). To be more precise it tests ChatGPT as NRS and introduces three NRSs (content, collaborative, hybrid) based on the OpenAI's text-embedding-ada-002.
+The project is devoted to GPT-based news recommender systems (NRS). To be more precise, it tests ChatGPT as NRS and introduces three NRSs (content, collaborative, hybrid) based on the OpenAI's text-embedding-ada-002.
 
 ## Data
 
