@@ -12,4 +12,4 @@ The data was not initially annotated in terms of sentiment. The annotation was m
 
 ## Evaluation
 
-Evaluation of the RSs include performance (precision, recall, F1 score) and diversity metrics. Person correlation was applied to estimate category, subcategory, and sentiment distribution in user profiles and recommended items.
+Evaluation of the RSs include performance (precision, recall, F1 score) and diversity metrics. Person correlation was applied to estimate category, subcategory, and sentiment distribution in user profiles and recommended items. 
